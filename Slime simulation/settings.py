@@ -1,0 +1,19 @@
+from math import pi
+
+
+WIDTH = 1000
+HEIGHT = 600
+
+
+SENSOR_ANGLE = 0.25 * pi
+SENSOR_LENGTH = 20
+
+
+TURN_ANGLE = 0.25 * pi
+TURN_SPEED = 0.8
+
+
+SPEED = 0.5
+
+
+NUM_AGENTS = 10000
